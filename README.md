@@ -4,5 +4,5 @@
 
 
 
-<video src="https://github.com/AgonizingGhost/Dreadrunning/blob/main/Techniques%20and%20Glitches/videos/example.mp4" type="video/mp4" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/AgonizingGhost/Dreadrunning/blob/main/Techniques%20and%20Glitches/videos/example.mp4?raw=true4" type="video/mp4" controls="controls" style="max-width: 730px;">
 </video>
