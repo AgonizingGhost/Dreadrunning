@@ -9,3 +9,7 @@
 
 ## Embedded YT
 {% include youtubePlayer.html id="6eW-_HQKego" %}
+
+## Embedded Twitch
+
+{% include twitchPlayer.html id="PluckyDarlingMelonGrammarKing-jcvxqoDYvnRoUOts" %}
