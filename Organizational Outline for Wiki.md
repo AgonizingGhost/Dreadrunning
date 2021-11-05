@@ -22,6 +22,7 @@
 | Ledge Warp	|
 |Space Ball|
 |Skipping Movement Abilities	Flash Shift, Spin Boost, Space Jump|
+|Some way or system to categorize the types of skips / any%/NMG|
 |Alternate ways to obtain Abilities	|Damage Boost	|
 |**Speed Techniques**|
 |**Boss Techniques**|
