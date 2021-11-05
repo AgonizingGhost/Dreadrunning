@@ -28,3 +28,6 @@
 |**Boss Techniques**|
 |**Version Differences**|
 |**Visual bugs and Glitches and Misc**|
+|**Game Maps**|
+|In-game|by Kopapa|
+|ih8ih8sn0w's maps|
